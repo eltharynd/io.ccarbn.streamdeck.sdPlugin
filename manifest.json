@@ -22,7 +22,7 @@
   "CategoryIcon": "assets/icon",
   "Name": "cCarbn Stream Deck Plugin", 
   "Description": "A plugin to control cCarbn through a Stream Deck", 
-  "Icon": "test/images/action", 
+  "Icon": "assets/icon", 
 
   "URL": "https://ccarbn.io", 
   "Version": "1.0.0",
