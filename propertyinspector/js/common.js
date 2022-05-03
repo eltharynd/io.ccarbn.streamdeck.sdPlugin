@@ -1347,7 +1347,7 @@ const SOCKETERRORS = {
 const fetchAlerts = function(userId) {
     console.log('fetching')
     var xmlHttp = new XMLHttpRequest();
-    xmlHttp.open( "GET", `https://ccarbn.io/api/elements/${userId}`, false ); 
+    xmlHttp.open( "GET", `https://ccarbn.io/api/alerts/${userId}`, false ); 
     xmlHttp.send( null );
 
     if(xmlHttp.status === 200) {

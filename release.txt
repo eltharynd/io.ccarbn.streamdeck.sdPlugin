@@ -1,0 +1,1 @@
+ ./DistributionTool.exe -b -i ../io.ccarbn.streamdeck.sdPlugin -o Release
