@@ -1,0 +1,14 @@
+{
+    "Actions": [
+      {
+        "Name": "Sends a test alert", 
+        "Tooltip": "Sends a test alert"
+      }
+    ], 
+
+    "Author": "eltharynd", 
+    "Category": "cCarbn",
+    "Name": "cCarbn Stream Deck Plugin", 
+    "Description": "A plugin to control cCarbn through a Stream Deck"
+  }
+  

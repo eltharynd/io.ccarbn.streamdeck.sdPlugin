@@ -1,0 +1,43 @@
+{
+  "Actions": [
+    {
+      "Icon": "assets/test", 
+      "Name": "Sends a test alert", 
+      "Tooltip": "Sends a test alert", 
+      "States": [
+        {
+          "Image": "assets/test"
+        }
+      ], 
+      "UUID": "io.ccarbn.streamdeck.test"
+    }
+  ], 
+  "SDKVersion": 2,
+
+  "CodePath": "index.html", 
+  "PropertyInspectorPath": "propertyinspector/index.html", 
+
+  "Author": "eltharynd", 
+  "Category": "cCarbn",
+  "CategoryIcon": "assets/icon",
+  "Name": "cCarbn Stream Deck Plugin", 
+  "Description": "A plugin to control cCarbn through a Stream Deck", 
+  "Icon": "test/images/action", 
+
+  "URL": "https://ccarbn.io", 
+  "Version": "1.0.0",
+  "OS": [
+    {
+        "Platform": "mac", 
+        "MinimumVersion" : "10.11"
+    },
+    {
+        "Platform": "windows", 
+        "MinimumVersion" : "10"
+    }
+  ],
+  "Software": 
+    {
+        "MinimumVersion" : "4.1"
+  }
+}
